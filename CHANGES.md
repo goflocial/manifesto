@@ -5,7 +5,7 @@ see what was revised and why. To propose the next one, use the [feedback page](h
 
 ---
 
-## Draft v0.2 (in progress)
+## Draft v0.2 (open for review)
 
 Shaped by the first readers' feedback before the public launch.
 
